@@ -1,4 +1,4 @@
-# app-without-lazy-loading
+[Related Article](https://thevueguy/blog/lazy-load-routes-vue-router/) | [Live Demo](https://quizzical-fermi-1bcabd.netlify.app/) | [Lazy loaded version](https://github.com/thevueguy/vue-router-with-lazy-loading)
 
 ## Project setup
 ```
